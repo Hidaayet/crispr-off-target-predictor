@@ -76,10 +76,10 @@ crispr-off-target-predictor/
 ## Progress log
 
 - [x] Project defined and documented
-- [ ] Data exploration
-- [ ] Feature engineering
-- [ ] Transformer model training
-- [ ] Evaluation and attention visualization
+- [x] Data exploration — GUIDE-seq dataset
+- [x] Feature engineering — sequence pair encoding
+- [x] Transformer model training — AUC 0.9711, accuracy 96.5%
+- [x] Evaluation and attention visualization
 
 ---
 
