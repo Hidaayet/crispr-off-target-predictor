@@ -81,6 +81,9 @@ crispr-off-target-predictor/
 
 ---
 
+## 📄 Documentation
+For a detailed description of the system design, signal processing pipeline, and performance results, see the [full project report](docs/CRISPR_Off_Target_Report.pdf)
+
 ## Author
 
 **Hidayet Allah Yaakoubi**
