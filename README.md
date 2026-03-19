@@ -4,8 +4,6 @@ A Transformer-based deep learning model that predicts where CRISPR-Cas9
 might accidentally cut in the genome — a critical safety problem in
 gene therapy and genome editing research.
 
->  Project status: In progress — Phase 1 (data exploration)
-
 ---
 
 ## What it does
