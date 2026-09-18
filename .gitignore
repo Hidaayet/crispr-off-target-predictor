@@ -1,0 +1,17 @@
+# Dataset
+data/
+*.csv
+*.tsv
+*.zip
+*.xlsx
+
+# Model weights
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
